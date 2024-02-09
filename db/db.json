@@ -1,0 +1,163 @@
+{
+  "usuario": [
+    {
+      "id": "05v6",
+      "usuario": "bovargas",
+      "contrasena": "bovargas"
+    },
+    {
+      "id": "10q0",
+      "usuario": "admin",
+      "contrasena": "admin"
+    }
+  ],
+  "estudiante": [
+    {
+      "id": "15c6",
+      "nombre": "Yorgo",
+      "apellido": "Chalkly",
+      "edad": 19,
+      "carrera": "Editor"
+    },
+    {
+      "id": "90c6",
+      "nombre": "Boyd",
+      "apellido": "Kingswood",
+      "edad": 19,
+      "carrera": "Senior Quality Engineer"
+    },
+    {
+      "id": "25c0",
+      "nombre": "Jase",
+      "apellido": "McKibben",
+      "edad": 20,
+      "carrera": "Nurse Practicioner"
+    },
+    {
+      "id": "80c6",
+      "nombre": "Angie",
+      "apellido": "Columbell",
+      "edad": 20,
+      "carrera": "Senior Financial Analyst"
+    },
+    {
+      "id": "91c1",
+      "nombre": "Gavan",
+      "apellido": "Rey",
+      "edad": 20,
+      "carrera": "Desktop Support Technician"
+    },
+    {
+      "id": "a186",
+      "nombre": "Zollie",
+      "apellido": "Brigge",
+      "edad": 20,
+      "carrera": "Assistant Media Planner"
+    },
+    {
+      "id": "31c0",
+      "nombre": "Yvon",
+      "apellido": "Fifoot",
+      "edad": 19,
+      "carrera": "Statistician IV"
+    },
+    {
+      "id": "01c0",
+      "nombre": "Denney",
+      "apellido": "Scattergood",
+      "edad": 20,
+      "carrera": "VP Quality Control"
+    },
+    {
+      "id": "12c3",
+      "nombre": "Nevile",
+      "apellido": "Northbridge",
+      "edad": 20,
+      "carrera": "Senior Quality Engineer"
+    },
+    {
+      "id": "21c5",
+      "nombre": "Matthus",
+      "apellido": "Redrup",
+      "edad": 20,
+      "carrera": "VP Product Management"
+    },
+    {
+      "id": "12a6",
+      "nombre": "Yorgos",
+      "apellido": "Kennington",
+      "edad": 20,
+      "carrera": "Analog Circuit Design manager"
+    },
+    {
+      "id": "11z1",
+      "nombre": "Waylen",
+      "apellido": "Casado",
+      "edad": 19,
+      "carrera": "Senior Quality Engineer"
+    },
+    {
+      "id": "10g2",
+      "nombre": "Hobart",
+      "apellido": "McLardie",
+      "edad": 19,
+      "carrera": "Assistant Manager"
+    },
+    {
+      "id": "91w1",
+      "nombre": "Vlad",
+      "apellido": "Mathonnet",
+      "edad": 20,
+      "carrera": "Account Coordinator"
+    },
+    {
+      "id": "12k0",
+      "nombre": "Ritchie",
+      "apellido": "Langthorne",
+      "edad": 19,
+      "carrera": "Payment Adjustment Coordinator"
+    },
+    {
+      "id": "90r0",
+      "nombre": "Cullin",
+      "apellido": "Crop",
+      "edad": 19,
+      "carrera": "Account Representative I"
+    },
+    {
+      "id": "10c2",
+      "nombre": "Conrade",
+      "apellido": "Maren",
+      "edad": 20,
+      "carrera": "Professor"
+    },
+    {
+      "id": "12x3",
+      "nombre": "Alvis",
+      "apellido": "Zucker",
+      "edad": 20,
+      "carrera": "Director of Sales"
+    },
+    {
+      "id": "10q2",
+      "nombre": "Emile",
+      "apellido": "Keppy",
+      "edad": 19,
+      "carrera": "VP Sales"
+    },
+    {
+      "id": "01l2",
+      "nombre": "Saul",
+      "apellido": "MacCahey",
+      "edad": 20,
+      "carrera": "Clinical Specialist"
+    },
+    {
+      "id": "12n7",
+      "nombre": "Ban",
+      "apellido": "Aspden",
+      "edad": 20,
+      "carrera": "Project Manager"
+    }
+  ]
+}

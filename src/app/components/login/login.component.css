@@ -1,0 +1,21 @@
+.padre{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: rgb(200, 230, 233);
+    height: 100%;
+}
+
+.hijo{
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+    text-align: center;
+}
+
+.boton{
+    width: 80%;
+}
+
