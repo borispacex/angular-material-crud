@@ -23,3 +23,9 @@ npm run backend-server
 ![alt text](https://github.com/borispacex/angular-material-crud/blob/main/images/json-server-Usuario.PNG?raw=true)
 
 ### CRUD
+- List
+![alt text](https://github.com/borispacex/angular-material-crud/blob/main/images/angular-List.PNG?raw=true)
+- Create
+![alt text](https://github.com/borispacex/angular-material-crud/blob/main/images/angular-Create.PNG?raw=true)
+- Update
+![alt text](https://github.com/borispacex/angular-material-crud/blob/main/images/angular-Update.PNG?raw=true)
