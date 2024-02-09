@@ -1,4 +1,4 @@
-# TAREA
+# PRACTICA
 
 ## Instalar dependencias
 ```sh
@@ -15,3 +15,11 @@ ng serve --open
 ```sh
 npm run backend-server
 ```
+
+### JSON SERVER
+- Estudiantes
+![alt text](https://github.com/borispacex/angular-material-crud/blob/main/images/json-server-Estudiante.PNG?raw=true)
+- Usuarios
+![alt text](https://github.com/borispacex/angular-material-crud/blob/main/images/json-server-Usuario.PNG?raw=true)
+
+### CRUD
