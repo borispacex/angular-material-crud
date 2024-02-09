@@ -29,3 +29,5 @@ npm run backend-server
 ![alt text](https://github.com/borispacex/angular-material-crud/blob/main/images/angular-Create.PNG?raw=true)
 - Update
 ![alt text](https://github.com/borispacex/angular-material-crud/blob/main/images/angular-Update.PNG?raw=true)
+- Delete
+![alt text](https://github.com/borispacex/angular-material-crud/blob/main/images/angular-Delete.PNG?raw=true)
